@@ -27,4 +27,4 @@ Repository ini akan terus diperbarui seiring saya lanjut ke tahap berikutnya: pe
 
 ## Kontak
 
-[fakhrurozy99] · [Fakhrurozy99@gmail.com]
+· [Fakhrurozy99@gmail.com]
