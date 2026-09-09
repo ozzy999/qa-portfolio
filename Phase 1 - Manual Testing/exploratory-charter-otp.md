@@ -17,8 +17,9 @@
 
 | # | Temuan | Klasifikasi |
 |---|---|---|
-| 1 | [isi hasil temuan] | Bug / Observasi / Sesuai ekspektasi |
-| 2 | [isi hasil temuan] | Bug / Observasi / Sesuai ekspektasi |
+| 1 | Permintaan kirim ulang OTP tidak memiliki batas/cooldown — bisa diklik berkali-kali tanpa jeda | Bug |
+| 2 | Kode OTP yang sudah kedaluwarsa (setelah timer 5 menit habis) tetap dapat digunakan untuk verifikasi | Bug |
+| 3 | Kode OTP yang benar tetap diverifikasi dengan sukses selama masih dalam batas waktu | Sesuai ekspektasi |
 
 ## Catatan
 Exploratory testing tidak menggantikan scripted test case — charter ini melengkapi test case yang sudah dibuat sebelumnya dengan menjelajahi kombinasi kondisi yang tidak selalu terpikirkan saat menulis test case formal.
