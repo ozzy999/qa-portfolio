@@ -13,7 +13,7 @@
 4. Minta kirim ulang OTP 5x berturut-turut dalam waktu singkat — cek apakah ada rate limiting.
 5. Masukkan OTP tepat 1 detik setelah waktu expired (5:01) — cek apakah sistem menolak dengan benar.
 
-## Temuan (diisi setelah eksekusi)
+## Temuan
 
 | # | Temuan | Klasifikasi |
 |---|---|---|
@@ -21,5 +21,3 @@
 | 2 | Kode OTP yang sudah kedaluwarsa (setelah timer 5 menit habis) tetap dapat digunakan untuk verifikasi | Bug |
 | 3 | Kode OTP yang benar tetap diverifikasi dengan sukses selama masih dalam batas waktu | Sesuai ekspektasi |
 
-## Catatan
-Exploratory testing tidak menggantikan scripted test case — charter ini melengkapi test case yang sudah dibuat sebelumnya dengan menjelajahi kombinasi kondisi yang tidak selalu terpikirkan saat menulis test case formal.
