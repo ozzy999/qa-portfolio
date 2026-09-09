@@ -1,9 +1,3 @@
-# Test Plan — Fitur Transfer Dana
-
-**Versi Dokumen:** 1.0
-**Tanggal:** [isi tanggal]
-**Disusun oleh:** [nama kamu]
-
 ## 1. Objective
 Memastikan fitur transfer dana berfungsi sesuai requirement dan aman dari risiko finansial sebelum dianggap layak rilis.
 
